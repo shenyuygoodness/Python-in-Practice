@@ -6,3 +6,4 @@ print(cars) #arranges it alphabetically
 # this could be done in reverse order
 cars.sort(reverse=True)
 print(cars)
+#sorting
