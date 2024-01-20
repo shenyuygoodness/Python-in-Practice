@@ -8,4 +8,8 @@ for l in list[2:3]:
 
 #copying list
 list_copy = list[:]
-print(list_copy)
+print(list_copy) 
+#Turples
+imensions = (200, 50)
+print(dimensions[0])
+print(dimensions[1])
