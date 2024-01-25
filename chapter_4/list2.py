@@ -10,6 +10,12 @@ for l in list[2:3]:
 list_copy = list[:]
 print(list_copy) 
 #Turples
-imensions = (200, 50)
+dimensions = (200, 50)
 print(dimensions[0])
 print(dimensions[1])
+#dimensions[0] = 45 this will produce errors when printed, showing it won't be possible to modify turples 
+for dimension in dimensions:
+    print(dimension)
+# tuples can be modified like variables
+dimensions = (56, 67)
+print(dimensions)
