@@ -32,7 +32,7 @@ else:
     print(f"{banned_users[0]}, you can go to hell")
 
 
-#statements
+#working with statements
 age = 35
 if age >= 50:
     print('You are an adult')
